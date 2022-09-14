@@ -1,0 +1,52 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-item {
+}
+.first-part {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+.time {
+  color: #475569;
+  font-weight: 600;
+  font-size: 16px;
+}
+.logo-container {
+  margin-left: 50px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: center;
+}
+.app-logo-img {
+  width: 30px;
+  height: 30px;
+}
+.title {
+  color: #475569;
+  font-weight: 500;
+  font-size: 15px;
+  margin-left: 30px;
+}
+.domain-url {
+  color: #6697ff;
+  font-weight: 500;
+  font-size: 15px;
+  margin-left: 20px;
+}
+.second-part {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  border: 0px;
+}
+.logo-delete {
+  width: 20px;
+  height: 20px;
+}
